@@ -8,11 +8,11 @@ This repository contains the Python code used for simulations, numerical calcula
 
 ## Code
 
-The Jupyter notebook Figures_v2_postreview.ipynb contains the code used to investigate epistasis along adaptive walks in Fisher's geometric model, including mutation sampling, pairwise epistasis, contingency, entrenchment, and mutation–selection–drift equilibrium.
+The Jupyter notebook Figures_Maillard2026.ipynb contains the code used to investigate epistasis along adaptive walks in Fisher's geometric model, including mutation sampling, pairwise epistasis, contingency, entrenchment, and mutation–selection–drift equilibrium.
 
 ## Usage
 
-Open and run Figures_v2_postreview.ipynb in a Python environment with the required scientific libraries installed.
+Open and run Figures_Maillard2026.ipynb in a Python environment with the required scientific libraries installed.
 
 ## Reference
 
